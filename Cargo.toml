@@ -1,6 +1,12 @@
 [package]
 name = "diskmap"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2024"
+description = "Terminal disk usage visualizer inspired by KDE application Filelight"
+license = "MIT"
+repository = "https://github.com/Mr-Octopus-2020/diskmap"
+readme = "README.md"
+keywords = ["disk", "cli", "tui", "filesystem", "usage", "visualizer"]
+categories = ["command-line-utilities"]
 
 [dependencies]
